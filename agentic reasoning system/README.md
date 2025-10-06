@@ -15,7 +15,7 @@ A modular, explainable system for multi-step logic question answering. It decomp
 
 ## Repository Structure
 
-
+```
 .
 ├── main.py
 ├── requirements.txt
@@ -33,7 +33,7 @@ A modular, explainable system for multi-step logic question answering. It decomp
 │   ├── train.csv
 │   └── test.csv
 └── output.csv
-
+```
 
 ## Requirements
 
@@ -88,3 +88,4 @@ Results and traces written to `output.csv`.
 ## Acknowledgments
 
 Expert systems, multi-step reasoning, and modular agentic frameworks.
+
