@@ -1,0 +1,3 @@
+llm_model: "gpt2"
+symbolic_solver: "z3"
+decomposition_method: "rule_based"
